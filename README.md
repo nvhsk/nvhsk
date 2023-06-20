@@ -9,3 +9,5 @@ _My name is Iryna, but you can call me Iri_
 - 🐈‍⬛ my work buddy is my cat
 
 ![coding](https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif)
+
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
