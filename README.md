@@ -24,6 +24,5 @@ _My name is Iryna, but you can call me Iri_
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nvhsk&show_icons=true&locale=en&layout=compact" alt="nvhsk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nvhsk&" alt="nvhsk" /></p>
 
 ![coding](https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif)
